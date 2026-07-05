@@ -3,8 +3,8 @@ import subprocess
 from datetime import datetime
 
 users = {
-    "user1": "https://bigo.tv/user/imkatrina",
-    "user2": "https://bigo.tv/user/onlylara"
+    "Sofi": "https://bigo.tv/user/798484012",
+    "Shaboon": "https://bigo.tv/user/717280198"
 }
 
 def is_live(url):
