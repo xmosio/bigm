@@ -1,5 +1,8 @@
 name: check-streams
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "*/10 * * * *"
