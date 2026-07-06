@@ -19,7 +19,7 @@ users = {
     "Nozhan": "https://bigo.tv/user/nozhanes",
     "Sernay": "https://bigo.tv/user/968395214",
     "Sadaf": "https://bigo.tv/user/992242250",
-    "Shaboon": "https://bigo.tv/user/717280198"
+    "oos Shaboon": "https://bigo.tv/user/717280198"
 }
 
 def is_live(url):
