@@ -4,6 +4,21 @@ from datetime import datetime
 
 users = {
     "Sofi": "https://bigo.tv/user/798484012",
+    "Shabnam": "https://bigo.tv/user/boqzepiano", 
+    "prMarian": "https://bigo.tv/user/314614931",
+    "Katrina": "https://bigo.tv/user/imkatrina",
+    "Taniya": "https://bigo.tv/user/tanitantan",
+    "Farimah": "https://bigo.tv/user/1042333738",
+    "Zespina": "https://bigo.tv/user/695331268",
+    "Elsa": "https://bigo.tv/user/elsa2222",
+    "Suzan": "https://bigo.tv/user/suzan11",
+    "Lara": "https://bigo.tv/user/onlylara",
+    "Sahar": "https://bigo.tv/user/437072862",
+    "Farimah juju": "https://bigo.tv/user/1079875463",
+    "Parisa": "https://bigo.tv/user/691136946",
+    "Nozhan": "https://bigo.tv/user/nozhanes",
+    "Sernay": "https://bigo.tv/user/968395214",
+    "Sadaf": "https://bigo.tv/user/992242250",
     "Shaboon": "https://bigo.tv/user/717280198"
 }
 
