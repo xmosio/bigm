@@ -6,6 +6,7 @@ users = {
     "Sofi": "https://bigo.tv/user/798484012",
     "Shabnam": "https://bigo.tv/user/boqzepiano", 
     "prMarian": "https://bigo.tv/user/314614931",
+    "Nozhan": "https://bigo.tv/user/nozhanes",
     "Katrina": "https://bigo.tv/user/imkatrina",
     "Taniya": "https://bigo.tv/user/tanitantan",
     "Farimah": "https://bigo.tv/user/1042333738",
