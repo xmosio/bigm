@@ -53,6 +53,8 @@ status = {
 
 for name, url in users.items():
     status["users"][name] = "online" if is_live(url) else "offline"
+for name in users.items():
+    if status[users.items("name")] == "offline" users.items("name").remove()
 
 with open("status.json", "w") as f:
     json.dump(status, f, indent=2)
