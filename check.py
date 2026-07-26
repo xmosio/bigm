@@ -52,7 +52,7 @@ status = {
 }
 
 for name, url in users.items():
-    status["users"][name] = "online" if is_live(url) else ""
+    status["users"][name] = "online" if is_live(url) else "offline"
 
 with open("status.json", "w") as f:
     json.dump(status, f, indent=2)
